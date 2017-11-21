@@ -1,0 +1,9 @@
+this the first commit
+
+
+echo "# share" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/nihalds/share.git
+git push -u origin master
