@@ -7,3 +7,11 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/nihalds/share.git
 git push -u origin master
+
+
+
+
+git config --global --unset user.name
+git config --global --unset user.email
+
+
