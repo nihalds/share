@@ -4,4 +4,6 @@ amanath added new line
 
 nihal added new line
 
-nihal added second line
+nihal added second line+
+
+conflict line
